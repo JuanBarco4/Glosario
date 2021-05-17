@@ -26,11 +26,48 @@
 
 .contenedor_1 div{
     width: 200px;
-    height: 270px;
+    height: 285px;
     margin: 7px;
     background-color:  #F4D03F;
     margin: 10px 10px 10px 10px;
     border: 1px solid black;
+}
+
+.cuadro div{
+    width: 110px;
+    height: auto;
+    background-color: #2C2C2C;
+    margin: auto;
+    margin-top: 2px;
+    text-align: center;
+    cursor: pointer;
+    color: #F4D03F;
+    border: none;
+}
+
+.padre:hover .hijo{
+    transition: 0.3s;
+    display: block;
+    position: relative;
+    margin: 0;
+}
+
+.hijo{
+    width: 150%;
+    background-color: #2C2C2C;
+    padding: 10px;
+    transition: 0.5s;
+    display: none;
+    cursor: pointer;
+    color: #F4D03F;
+    text-align: center;
+}
+
+.hijo:hover{
+    background-color: #5A5858;
+    color: #F4D03F;
+    display: inline;
+    transition: 0.5s;
 }
 
 .contenedor_2{
@@ -46,6 +83,43 @@
     background-color:  #F4D03F;
     margin: 10px 10px 10px 10px;
     border: 1px solid black;
+}
+
+.cuadro div{
+    width: 110px;
+    height: auto;
+    background-color: #2C2C2C;
+    margin: auto;
+    margin-top: 2px;
+    text-align: center;
+    cursor: pointer;
+    color: #F4D03F;
+    border: none;
+}
+
+.padre:hover .hijo{
+    transition: 0.3s;
+    display: block;
+    position: relative;
+    margin: 0;
+}
+
+.hijo{
+    width: 150%;
+    background-color: #2C2C2C;
+    padding: 10px;
+    transition: 0.5s;
+    display: none;
+    cursor: pointer;
+    color: #F4D03F;
+    text-align: center;
+}
+
+.hijo:hover{
+    background-color: #5A5858;
+    color: #F4D03F;
+    display: inline;
+    transition: 0.5s;
 }
 
 .contenedor_3{
