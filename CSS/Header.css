@@ -35,7 +35,6 @@ header{
     justify-content: space-around;
     flex-direction: row;
     
-    transform: translateX(-57%);
     font-size: 15px;
 }    
 
@@ -53,5 +52,4 @@ header{
 
 .logo{
     color: #2C2C2C;
-    transform: translateX(64%)
 }
