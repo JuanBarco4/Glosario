@@ -2,6 +2,7 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 .Html{
@@ -13,7 +14,7 @@
 }
 
 .cabecera {
-    width: 1000px;
+    max-width: 1000px;
     margin: auto;
     
 }
@@ -25,8 +26,8 @@
 }
 
 .contenedor_1 div{
-    width: 200px;
-    height: 285px;
+    max-width: 200px;
+    max-height: 285px;
     margin: 7px;
     background-color:  #F4D03F;
     margin: 10px 10px 10px 10px;
@@ -34,7 +35,7 @@
 }
 
 .cuadro div{
-    width: 110px;
+    max-width: 110px;
     height: auto;
     background-color: #2C2C2C;
     margin: auto;
@@ -53,7 +54,7 @@
 }
 
 .hijo{
-    width: 150%;
+    max-width: 150%;
     background-color: #2C2C2C;
     padding: 10px;
     transition: 0.5s;
@@ -77,8 +78,8 @@
 }
 
 .contenedor_2 div{
-    width: 200px;
-    height: 270px;
+    max-width: 200px;
+    max-height: 285px;
     margin: 7px;
     background-color:  #F4D03F;
     margin: 10px 10px 10px 10px;
@@ -86,7 +87,7 @@
 }
 
 .cuadro div{
-    width: 110px;
+    max-width: 110px;
     height: auto;
     background-color: #2C2C2C;
     margin: auto;
@@ -105,7 +106,7 @@
 }
 
 .hijo{
-    width: 150%;
+    max-width: 150%;
     background-color: #2C2C2C;
     padding: 10px;
     transition: 0.5s;
@@ -129,8 +130,8 @@
 }
 
 .contenedor_3 div{
-    width: 200px;
-    height: 270px;
+    max-width: 200px;
+    max-height: 285px;
     margin: 7px;
     background-color:  #F4D03F;
     margin: 10px 10px 10px 10px;
@@ -144,8 +145,8 @@
 }
 
 .contenedor_4 div{
-    width: 200px;
-    height: 270px;
+    max-width: 200px;
+    max-height: 285px;
     margin: 7px;
     background-color:  #F4D03F;
     margin: 10px 10px 10px 10px;
@@ -166,7 +167,7 @@ p{
 }
 
 section{
-    width: 1000px;
+    max-width: 1000px;
     margin: auto; 
 }
 
@@ -194,7 +195,7 @@ section{
     color: #F4D03F;
     margin: 15px 0px 15px 0px;
     border: 1px solid black;
-    width:45%;
+    max-width:45%;
     text-align: center;
     background-color: #2C2C2C; 
 }
@@ -204,7 +205,7 @@ section{
     color: #F4D03F;
     margin: 15px 0px 15px 0px;
     border: 1px solid black;
-    width:45%;
+    max-width:45%;
     text-align: center;
     background-color:#2C2C2C;
 }
@@ -214,7 +215,7 @@ section{
     color: #F4D03F;
     margin: 15px 0px 15px 0px;
     border: 1px solid black;
-    width:50%;
+    max-width:50%;
     text-align: center;
     background-color:#2C2C2C;
 }
@@ -224,7 +225,7 @@ section{
     color:#F4D03F;
     margin: 15px 0px 15px 0px;
     border: 1px solid black;
-    width:50%;
+    max-width:50%;
     text-align: center;
     background-color:#2C2C2C;
 }
