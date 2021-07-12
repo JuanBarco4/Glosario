@@ -195,9 +195,8 @@ section{
     color: #F4D03F;
     margin: 15px 0px 15px 0px;
     border: 1px solid black;
-    max-width:45%;
     text-align: center;
-    background-color: #2C2C2C; 
+    background-color: #2C2C2C;
 }
 
 .Subtitulo_2{
@@ -205,7 +204,6 @@ section{
     color: #F4D03F;
     margin: 15px 0px 15px 0px;
     border: 1px solid black;
-    max-width:45%;
     text-align: center;
     background-color:#2C2C2C;
 }
@@ -215,7 +213,6 @@ section{
     color: #F4D03F;
     margin: 15px 0px 15px 0px;
     border: 1px solid black;
-    max-width:50%;
     text-align: center;
     background-color:#2C2C2C;
 }
@@ -225,7 +222,6 @@ section{
     color:#F4D03F;
     margin: 15px 0px 15px 0px;
     border: 1px solid black;
-    max-width:50%;
     text-align: center;
     background-color:#2C2C2C;
 }
@@ -244,3 +240,8 @@ section{
     text-align: center;
     font-size: 16px;
 }
+
+@media screen and(max-width: 700px){ 
+.Subtitulo_1{
+    font-size: 15px;
+}}
