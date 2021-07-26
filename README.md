@@ -12,3 +12,16 @@
 | Mi trabajo:  |  https://juanbarco4.github.io/Glosario/  |
 |  Materia: |  Laboratorio 1 |
 |  Profesor: |  Jossue Emmanuel Fuentes |
+
+## Indice
+
+1. ##### Portada -----------------------------------1
+2. #####Anteportada ------------------------------2
+3. ##### Indice ------------------------------------3
+4. ##### Objetivos ---------------------------------4
+5. ##### Glosario HTML y CSS ----------------------5
+6. ##### - Home page ------------------------------6
+  6.1 Banner ---------------------------------7
+7. ##### - Glosario ---------------------------------8
+7.1 Contenido HTML ------------------------9
+7.2 Contenido CSS --------------------------10
