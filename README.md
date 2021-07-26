@@ -6,7 +6,9 @@
 
 ## Información
 
-|  Nombre: |  Juan Pablo Barco Monterroso  |
+|  Nombre:  | Juan Pablo Barco Monterroso  |
 | ------------ | ------------ |
-|  Colegio: | Colegio Santa Catalina Laboure  |
-|  Mi trabajo | https://juanbarco4.github.io/Glosario/  |
+|  Colegio:  | Santa Catalina Laboure  |
+| Mi trabajo:  |  https://juanbarco4.github.io/Glosario/  |
+|  Materia: |  Laboratorio 1 |
+|  Profesor: |  Jossue Emmanuel Fuentes |
