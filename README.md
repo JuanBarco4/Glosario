@@ -25,3 +25,9 @@
 | Banner  |   6.1|
 | -Glosario  |  7 |
 |  Contenido html y css | 7.1  |
+
+## Objetivos
+
+-  Comprender cada uno de los temas vistos en clase
+- Manejar cada tema y fucionalidad aprendida de HTML y CSS
+- Interesarme por aprender nuevas cosas por mu cuenta que me puedan ayudar en un futuro
