@@ -31,3 +31,7 @@
 -  Comprender cada uno de los temas vistos en clase
 - Manejar cada tema y fucionalidad aprendida de HTML y CSS
 - Interesarme por aprender nuevas cosas por mu cuenta que me puedan ayudar en un futuro
+
+## Objetivos futuros
+
+- Trabajar con dedicación y esmero cada actividad para que mi portafolio quede los más presentable posible.
