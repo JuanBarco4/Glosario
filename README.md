@@ -35,3 +35,13 @@
 ## Objetivos futuros
 
 - Trabajar con dedicación y esmero cada actividad para que mi portafolio quede los más presentable posible.
+
+## School ERP - Wireframes
+
+| Links   |
+| ------------ |
+| https://juanbarco4.github.io/School_ERP/  |
+| https://juanbarco4.github.io/login/  |
+| https://juanbarco4.github.io/Login2/  |
+|  https://juanbarco4.github.io/dashboard/ |
+|https://juanbarco4.github.io/profile/   |
